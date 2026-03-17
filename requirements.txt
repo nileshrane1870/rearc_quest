@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+boto3
+pandas
+aws-cdk-lib
+constructs
