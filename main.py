@@ -3,7 +3,7 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
-# aws key :- pMickn92lT4BeKFVjRXR7Q2wns5QHPT6jV7ZXdrH
+# aws key :- 
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
